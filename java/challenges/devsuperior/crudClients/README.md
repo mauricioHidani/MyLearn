@@ -1,5 +1,5 @@
 # 💎 CRUD CLIENTS
-📍 WORKSPACE / WORK / LEARNING NOTES / DEVSUPERIOR<br>
+📍 MY LEARN / JAVA / CHALLENGES / DEVSUPERIOR<br>
 📅 Augost 07, 2023 - 🚩 São Paulo, Brazil - 😁 Mauricio Mityo Hidani<br>
 
 
