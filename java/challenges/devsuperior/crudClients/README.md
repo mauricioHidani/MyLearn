@@ -1,5 +1,5 @@
 # 💎 CRUD CLIENTS
-📍 WORKSPACE / WORK / LEARNING NOTES / DEVSUPERIOR<br>
+📍 MY LEARN / JAVA / CHALLENGES / DEVSUPERIOR<br>
 📅 Augost 07, 2023 - 🚩 São Paulo, Brazil - 😁 Mauricio Mityo Hidani<br>
 
 
@@ -16,8 +16,8 @@ forma para conseguir realizar o git clone deste desafio (clonando apenas este
 desafio), realize os comandos demonstrados logo abaixo: 
 
 ```
-mkdir myNotes
-cd myNotes/
+mkdir myLearn
+cd myLearn/
 
 git init
 git remote add origin https://github.com/mauricioHidani/MyLearn.git
@@ -33,8 +33,8 @@ mvn spring-boot:run
 
 Descrição dos comandos:
 
-01. `mkdir myNotes`: cria o diretório para armazenar o desafio;
-02. `cd myNotes/`: entra no diretório serparado para a clone do repositório;
+01. `mkdir myLearn`: cria o diretório para armazenar o desafio;
+02. `cd myLearn/`: entra no diretório serparado para a clone do repositório;
 03. `git init`: inicia um repositório _git_ no diretório atual;
 04. `git remote add origin https://github.com/mauricioHidani/MyLearn.git`: adiciona o endereço remoto do repositório que contém o desafio;
 05. `git config core.sparseCheckout true`: configura o _sparse-checkout_ para aceitar que a _clonagem_ de um diretório específico do repositório;
